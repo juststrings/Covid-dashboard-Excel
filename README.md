@@ -21,7 +21,7 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
 ---
 # Data Transformation
-I cleaned the data of unnecessary values and created a summarized sheet for death cases, confirmed cases and recovered cases for easy derivation of data insights/reports
+I cleaned the data of unnecessary values and created a summarized sheet for death cases, confirmed cases and recovered cases all due to COVID for easy derivation of data insights/reports
 
 
 
